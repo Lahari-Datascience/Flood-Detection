@@ -112,6 +112,4 @@ pip install segmentation_models_pytorch rasterio albumentations torch pandas num
 - [segmentation_models_pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) for the U-Net++ implementation
 - [TerraTorch](https://github.com/terrastackai/terratorch) for geospatial fine-tuning tooling
 
-## License
 
-*(Add your license here, e.g. MIT)*
