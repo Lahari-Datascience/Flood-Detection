@@ -103,7 +103,7 @@ pip install segmentation_models_pytorch rasterio albumentations torch pandas num
 
 ## Results
 
-*(Add your leaderboard score / IoU / F1 metrics here once available.)*
+LeaderBoard Position-56 and Score-0.1102
 
 ## Acknowledgements
 
